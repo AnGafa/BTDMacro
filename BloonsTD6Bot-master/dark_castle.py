@@ -5,7 +5,6 @@ from bot import Bot
 from tower import Tower
 from map import DarkCastleMap
 
-
 class DarkCastleBot(Bot):
 
     def __init__(self):
@@ -41,9 +40,4 @@ class DarkCastleBot(Bot):
         super_monkey.upgrade(3, 2)
 
         self._wait_for_game_completion()
-        self._game_completed()
-
-
-if __name__ == '__main__':
-    bot = DarkCastleBot()
-    bot.main(required_hero='obyn')
+        #self._game_completed()
