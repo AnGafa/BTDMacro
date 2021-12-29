@@ -33,6 +33,7 @@ LOGS_DIR = '_logs'
 # Menu
 BUTTON_MENU_PLAY = 'resources/menu/button_menu_play.jpg'
 BUTTON_MENU_MAPS_EXPERT = 'resources/menu/button_menu_maps_expert.jpg'
+BUTTON_MENU_MAPS_NEXT = 'resources/menu/button_menu_maps_next.jpg'
 BUTTON_MENU_EASY_DIFF = 'resources/menu/button_menu_easy_diff.jpg'
 BUTTON_MENU_STANDARD_MODE = 'resources/menu/button_menu_standard_mode.jpg'
 
@@ -72,9 +73,9 @@ HERO_SELECTED = {'obyn': [HERO_SELECTED_OBYN_1, HERO_SELECTED_OBYN_2]}
 # Dark Castle
 MAPS_DARK_CASTLE = 'resources/maps/dark_castle/map.jpg'
 
-MAPS_POS_DARK_CASTLE_INTERSECTION_TOP = 'resources/maps/dark_castle/intersection_top_path.jpg'
-MAPS_POS_DARK_CASTLE_INTERSECTION_BOTTOM = 'resources/maps/dark_castle/intersection_bottom_path.jpg'
-MAPS_POS_DARK_CASTLE_TOP_LEFT_MAIN_ROAD = 'resources/maps/dark_castle/top_left_main_road.jpg'
+MAPS_POS_DARK_CASTLE_INTERSECTION_TOP = 'resources/maps/dark_castle/intersection_top_path1.jpg'
+MAPS_POS_DARK_CASTLE_INTERSECTION_BOTTOM = 'resources/maps/dark_castle/intersection_bottom_path1.jpg'
+MAPS_POS_DARK_CASTLE_TOP_LEFT_MAIN_ROAD = 'resources/maps/dark_castle/top_left_main_road1.jpg'
 
 MAPS_ROUND_DARK_CASTLE_4 = 'resources/maps/dark_castle/round_4.jpg'  # 23
 MAPS_ROUND_DARK_CASTLE_20 = 'resources/maps/dark_castle/round_20.jpg'  # 163

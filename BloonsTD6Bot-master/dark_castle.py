@@ -16,6 +16,8 @@ class DarkCastleBot(Bot):
         self._load_game(self._map)
         self._wait_for_map_load()
 
+        logging.info('wwww')
+
         Tower(self, config.HOTKEY_HERO, config.MAPS_POS_DARK_CASTLE_INTERSECTION_TOP, None, 'hero')
 
         logging.info('Starting game')
